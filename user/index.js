@@ -1,5 +1,5 @@
 var db = require('../db');
-db.connect();
+
 
 function User(name) {
     this.name = name;
